@@ -1,0 +1,1 @@
+6 Values, Mean = 4.333833, Sample Standard Deviation = 7.153780
